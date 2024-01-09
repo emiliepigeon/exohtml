@@ -14,3 +14,12 @@
     padding: 300Px 0 ;
     /*interieur*/
 }
+
+#position{ 
+    position: relative;
+}
+.position{
+    position:absolute;
+    top: 100px;
+    left: 50%;
+}
